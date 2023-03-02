@@ -1,0 +1,22 @@
+numpy
+opencv-python
+pyzbar
+scikit-learn
+pyserial
+pillow
+pypylon
+tqdm
+
+shapely
+
+PyMySQL
+cryptography
+
+jupyterlab
+
+labelme
+
+# tensorflow
+# matplotlib
+# pandas
+# auto-py-to-exe
